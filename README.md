@@ -1,5 +1,5 @@
 ### Hi there friend! 👋
 
-👉 I'm a cyber security specialist living in Västerås, Sweden 🌍 
+👉 I'm a Cyber Security guy living in Västerås, Sweden 🌍 
 
-Here @GitHub you will find my contributions to various open-source projects and some quick ugly haacks of my own. 
+Here at GitHub you will find my contributions to various open-source projects and some quick ugly haacks of my own. 
